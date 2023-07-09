@@ -9,13 +9,13 @@
 #
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/muhammad-sabir07/">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-sabir07/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/Muhammad-Sabir/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
+<a href="https://leetcode.com/Muhammad-Sabir/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 </p>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=muhammad-sabir&theme=monokai" /></p>
