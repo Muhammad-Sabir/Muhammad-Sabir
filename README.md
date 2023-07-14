@@ -1,5 +1,5 @@
 <h3 align="center">MUHAMMAD SABIR RAZA</h3>
-<h4 align="center">Aspiring Web Developer</h4>
+<h4 align="center">MERN Developer</h4>
 
 #
 <p align='center'>
