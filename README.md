@@ -1,4 +1,4 @@
-# 🏄‍♂️ Muhammad Sabir
+# Muhammad Sabir
 
 **`Aspiring Web Developer`**
 
