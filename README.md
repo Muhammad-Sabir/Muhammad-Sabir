@@ -6,7 +6,7 @@ I'm an aspiring web developer with a passion for building and creating in the di
 
 <p align="left">
   <a href="https://www.youtube.com/c/muhammadsabir?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="[https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)" />
   </a>
   <a href="https://www.youtube.com/c/muhammadsabir">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
