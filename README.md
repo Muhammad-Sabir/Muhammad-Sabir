@@ -1,10 +1,6 @@
 <h1 align="center">Muhammad Sabir</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-<div align="center">
-  💼 <a href="https://www.linkedin.com/in/muhammad-sabir07/" target="_blank">LinkedIn</a> &nbsp;&nbsp; 📧 Email: <strong>sabir.tabi1122@gmail.com</strong>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-sabir07" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sabir07" height="30" width="40" /></a>
