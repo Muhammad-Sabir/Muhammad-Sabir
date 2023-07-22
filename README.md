@@ -1,9 +1,6 @@
 <h1 align="center">Muhammad Sabir</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-- 💼 Linkedin: [https://www.linkedin.com/in/muhammad-sabir07/](https://www.linkedin.com/in/muhammad-sabir07/)
-- 📧 Email: **sabir.tabi1122@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-sabir07" target="blank">
