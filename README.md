@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-sabir07" target="blank"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="muhammad-sabir07" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhammad-sabir07" target="blank"><img src="[https://icons8.com/icon/xuvGCOXi8Wyg/linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="muhammad-sabir07" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/muhammad-sabir" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad-sabir" height="30" width="40" /></a>
 </p>
 
