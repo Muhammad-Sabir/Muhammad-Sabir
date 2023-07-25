@@ -57,7 +57,6 @@ I experimented with different languages and stacks, but when I delved into JavaS
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammad-sabir&theme=gruvbox" />
 </p>
 
-#
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sabir&theme=gruvbox"/>
 </p>
