@@ -8,7 +8,7 @@
   </a>&nbsp;&nbsp;
 
   
-  <a href="https://www.linkedin.com/in/muhammad-sabir07/">
+  <a href="https://leetcode.com/Muhammad-Sabir/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
