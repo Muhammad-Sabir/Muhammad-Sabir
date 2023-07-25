@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimaiqbal02&theme=gruvbox" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-raza&theme=gruvbox" /></p>
 
 #
 
