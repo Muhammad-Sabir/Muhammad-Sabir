@@ -53,7 +53,7 @@ I experimented with different languages and stacks, but when I delved into JavaS
 
 #
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammad-sabir&theme=gruvbox" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammad-sabir&show_icons=true&count_private=true&theme=gruvbox" />
 </p>
 
 <p align="center">
