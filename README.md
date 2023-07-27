@@ -18,7 +18,7 @@
 </a>
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=muhammad-sabir&theme=monokai" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=muhammad-sabir&theme=gruvbox" /></p>
 
 #
 
