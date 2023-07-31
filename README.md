@@ -20,6 +20,10 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=muhammad-sabir&theme=monokai" /></p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammad-sabir&theme=monokai"/>
+</p>
+
 #
 
 <h3 align="center">
@@ -62,18 +66,4 @@ I experimented with different languages and stacks, but when I delved into JavaS
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-#
-
-<h3 align="center">
-  <a href="https://github.com/Muhammad-Sabir/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1&color=EB1F6A&center=true&vCenter=true&repeat=false&width=435&lines=STATS" alt="Typing SVG" /></a>
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammad-sabir&show_icons=true&count_private=true&theme=monokai" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammad-sabir&theme=monokai"/>
 </p>
