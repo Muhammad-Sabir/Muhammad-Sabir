@@ -71,9 +71,5 @@ I experimented with different languages and stacks, but when I delved into JavaS
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammad-sabir&show_icons=true&count_private=true&theme=monokai" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammad-sabir&theme=monokai"/>
 </p>
