@@ -34,12 +34,3 @@ Another interest of mine is web scraping, for which I have used tools like Beaut
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
 </p>
-
-#
-<h3 align="center">
-  <a href="https://github.com/Muhammad-Sabir/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1&color=EB1F6A&center=true&vCenter=true&repeat=false&width=435&lines=STATS" alt="Typing SVG" /></a>
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammad-sabir&theme=monokai"/>
-</p>
