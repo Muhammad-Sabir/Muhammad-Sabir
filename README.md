@@ -2,7 +2,7 @@
   <a href="https://github.com/Muhammad-Sabir/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=1&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=MUHAMMAD+SABIR+RAZA" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Muhammad-Sabir/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=500&color=000000A8&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Engineering+Student" alt="Typing SVG" /></a>
+  <a href="https://github.com/Muhammad-Sabir/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=500&color=000000A8&center=true&vCenter=true&width=435&lines=Next.js+Developer;Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
 <p align='center'>
