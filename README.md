@@ -28,16 +28,14 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p>
-I'm a full-stack web developer with a passion for building software solutions using Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Express.js, and Git, etc. My solid foundation in computer science helps me to create highly optimized apps, from performance to SEO.
+I'm a software engineer with a passion for building software solutions using Django, React.js, Next.js, TypeScript, JavaScript, Tailwind CSS and Git, etc.
 
 My skillset covers:
-- JavaScript, TypeScript
+- Django, Django Rest Framework
 - React, Next.js
-- Node.js, Express.js
-- TailwindCSS, Bootstrap, MUI, Shadcn
 - SQL / NoSQL Databases
 - Git / GitHub
-- Trello, ClickUp, MsProject
+- Python, JavaScript, TypeScript
 
 Feel free to contact me!
 
