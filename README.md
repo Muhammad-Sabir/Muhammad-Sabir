@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-sabir07/">
-    <img src="https://skillicons.dev/icons?i=django,python,react,postgres,docker,git" />
+    <img src="https://skillicons.dev/icons?i=django,python,react,postgres,docker,git,nextjs" />
   </a>
 </p>
 
